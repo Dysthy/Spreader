@@ -1,11 +1,13 @@
-<img src="https://i.imgur.com/OqX1bEi.png" height="220" alt="Spreader Face" align="right">
+<img src="https://i.imgur.com/OqX1bEi.png" height="220" alt="Spreader" align="right">
+
 <div align="center">
-# Spreader
+
+## Spreader
 
 Spreader es un plugin que permite teletransportar jugadores a posiciones específicas.
 </div>
 
-## Comandos Disponibles
+## 📥Comandos Disponibles
 
 ### `/savespawn`
 - **Descripción**: Guarda tu posición actual para el teletransporte
@@ -39,7 +41,7 @@ Spreader es un plugin que permite teletransportar jugadores a posiciones especí
 - **Permisos**: `spreader.info`
 - **Uso**: `/spreaderinfo` - Muestra estado del plugin, estadísticas y comandos disponibles
 
-## Cómo Usar
+## 📦Cómo Usar
 
 1. **Guardar Posiciones**: 
    - Ve a las ubicaciones donde quieres teletransportar jugadores
@@ -57,13 +59,13 @@ Spreader es un plugin que permite teletransportar jugadores a posiciones especí
    - Usa `/testposition` para probar posiciones como operador
    - Usa `/spreaderinfo` para ver información del plugin
 
-## Características
+## ⚙️ Características
 
 - ✅ Teletransporte automático ignorando op
 - ✅ Sistema de posiciones en orden
 - ✅ Mensajes informativos
 
-## Permisos
+## 📜Permisos
 
 Todos los comandos requieren permisos específicos:
 - `spreader.savespawn` - Para guardar posiciones
@@ -75,11 +77,15 @@ Todos los comandos requieren permisos específicos:
 
 Por defecto, todos los permisos están configurados para op (`default: op`).
 
-## Ejemplo de Uso
+## 🧪Ejemplo de Uso
 
 1. Vas a diferentes ubicaciones y usas el comando `/savespawn` para guardar la posicion
 2. Cuando esté listo, ejecuta `/spreader`
 3. Los jugadores son teletransportados automáticamente a las posiciones en orden
+
+## ⚖️ Licencia
+Spreader está licenciado bajo la Licencia MIT. Puedes encontrar la licencia [aqui](LICENSE).
+
 
 ## Almacenamiento de Posiciones
 
